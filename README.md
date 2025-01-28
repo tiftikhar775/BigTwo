@@ -14,7 +14,7 @@ If two cards are the same, then the higher one is determined by suit order, whic
     
     Diamond, Clubs, Hearts, Spades  
 
-Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game.
+Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game, either as a single or part of a combination.
 Thus, whoever has the 3 of diamonds goes first.
 
 ### Combinations
