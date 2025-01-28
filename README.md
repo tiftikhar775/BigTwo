@@ -14,7 +14,7 @@ If two cards are the same, then the higher one is determined by suit order, whic
     
     Diamond, Clubs, Hearts, Spades  
 
-Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game, either as a single or part of a combination.
+Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game, either as a single or part of a combination. 
 Thus, whoever has the 3 of diamonds goes first.
 
 ### Combinations
@@ -34,8 +34,7 @@ Five-card hands: There are five different valid five-card hands, ranking from lo
 
 The game is broken into rounds, and the combination type for any given round is determined by the player that starts it.  
 For example, if the starting player plays 3 of diamonds as a single, then all subsequent plays must be singles for that round (doubles, triples or five card combinations cannot be played).  
-The same applies to the rest of the card combinations. All except for one...
-
+The same applies to the rest of the card combinations.
 
 # How to run
 Ensure you have the latest JDK installed on your system.   
