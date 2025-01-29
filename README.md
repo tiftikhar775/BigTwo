@@ -1,7 +1,7 @@
-# Big Two
+# Big Two 
 
 ## About
-Big Two is a famous shedding card game of Cantonese origin. It is played with two - four players.
+Big Two is a famous shedding card game of Cantonese origin. The deck is evenly distributed between 2 players (26 cards each).  
 The Objective of the game is to be the first one to get rid of all cards.
 
 ## Rules
@@ -14,7 +14,7 @@ If two cards are the same, then the higher one is determined by suit order, whic
     
     Diamond, Clubs, Hearts, Spades  
 
-Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game, either as a single or part of a combination. 
+Since the three of diamonds is the lowest value card, it must be the first card that is played at the start of each game, either as a single or part of a combination.   
 Thus, whoever has the 3 of diamonds goes first.
 
 ### Combinations
@@ -37,13 +37,10 @@ For example, if the starting player plays 3 of diamonds as a single, then all su
 The same applies to the rest of the card combinations.
 
 # How to run
-Ensure you have the latest JDK installed on your system.   
+Ensure you have the latest JDK installed on your system.  
+Clone the repository to your system and run the Main.java file.
 
-Run the Main.java file and select the number of players you will play with (2 or 4).
-
-Your hand will be displayed in the console with a context menu.  
-
-Select the option for the type of hand you will play (singles, double, triple, five-card, pass).
+Enjoy!
  
 
 
